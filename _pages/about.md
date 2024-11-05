@@ -12,11 +12,11 @@ I am a Master's graduate in Control Science and Engineering from Beijing Univers
 
 🔧 What I Do
 ======
-**Grid Code Analysis & Evaluation**: Conducting assessments for different countries' grid codes, including Kazakhstan, Uzbekistan, India, Thailand, and Serbia.
+**Grid Code Analysis & Evaluation**: Experienced in the grid codes of 30+ countries, having completed grid connection certification projects with a total capacity of over 1GW across international markets, including **Kazakhstan**, **Uzbekistan**, **India**, **Thailand**, and **Serbia**.
 
-**Simulation & Modeling**: Using PowerFactory, PSSE, and PSCAD to simulate and model wind farms for grid connection certification.
+**Simulation & Modeling**: Specialized in **PowerFactory**, **PSSE**, and **PSCAD** for simulating and modeling wind farms for grid connection certification.
 
-**Energy Management**: Involved in the development of energy management and primary frequency control systems for wind farms.
+**Energy Management**: Involved in the development of **EMS** and **PFC** self-developed products for wind farms.
 
 I am committed to developing sustainable energy solutions and have experience working across multiple international markets. Feel free to explore my projects and contact me for collaboration or career opportunities!
 
